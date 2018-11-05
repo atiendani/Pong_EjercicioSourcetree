@@ -1,2 +1,1 @@
-Modificado chacho
-La pizza con piña esta rica
+﻿El tomate es una FRUTA
